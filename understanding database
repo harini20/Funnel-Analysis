@@ -1,0 +1,14 @@
+1. How many times the app was downloaded?
+#23608 app downloads 
+select count(*) as total
+from app_downloads;
+
+2. how many users signed up?
+# 17623 user ids
+select count( user_id) as total 
+from signups;
+
+3. how many rides were requested and completed 
+#385477 rides requested 
+select count(ride_id) as total 
+from ride_requests;
