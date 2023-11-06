@@ -8,3 +8,4 @@ Steps:
 2. Developing Metrocar Funnel Metrics
 3. Presenting the Funnel Results
 
+![image](https://github.com/harini20/Funnel-Analysis/assets/22736615/6787d926-e8f5-4d48-b8e3-e0428ea8a9e5)
